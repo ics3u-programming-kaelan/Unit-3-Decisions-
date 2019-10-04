@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\bin\Debug\GuessNumberKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\bin\Debug\GuessNumberKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\bin\Debug\GuessNumberKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.frmGuessNumber.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\GuessNumberKaelanK\obj\Debug\GuessNumberKaelanK.pdb
