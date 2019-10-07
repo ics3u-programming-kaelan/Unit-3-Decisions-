@@ -36,7 +36,7 @@ namespace GuessNumberKaelanK
                 lblAnswer.Show();
             }
 
-            if (numNumbers < MAX_NUMBER)
+            else if (numNumbers < MAX_NUMBER)
             {
                 lblAnswer.Text = "Your Guess Is Too Low";
                 lblAnswer.Show();
@@ -49,6 +49,7 @@ namespace GuessNumberKaelanK
                 System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"n:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\Sounds\Correct Answer Sound Effect.mp3");
                 player.Play();
             }
+            
         }
     }
 }

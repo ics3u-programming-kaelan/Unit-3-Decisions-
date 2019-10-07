@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\bin\Debug\ChocoBoxKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\bin\Debug\ChocoBoxKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\bin\Debug\ChocoBoxKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.frmChocoBoxes.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ChocoBoxKaelanK\ChocoBoxKaelanK\obj\Debug\ChocoBoxKaelanK.pdb
