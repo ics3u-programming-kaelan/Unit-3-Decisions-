@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DBC34F22-0843-4332-9545-903EC2CBBCFF}|Default">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissorsKaelanK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissorsKaelanK/RockPaperScissorsForm.cs">
+    <Files>
+      <File FileName="RockPaperScissorsKaelanK/RockPaperScissorsForm.cs" Line="24" Column="50" />
+      <File FileName="RockPaperScissorsKaelanK/RockPaperScissorsForm.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RockPaperScissorsKaelanK" expanded="True">
+            <Node name="RockPaperScissorsKaelanK" expanded="True">
+              <Node name="RockPaperScissorsForm.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
