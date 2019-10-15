@@ -32,6 +32,8 @@
             this.txtGuess = new System.Windows.Forms.TextBox();
             this.btnCheck = new System.Windows.Forms.Button();
             this.lblAnswer = new System.Windows.Forms.Label();
+            this.picAns = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.picAns)).BeginInit();
             this.SuspendLayout();
             // 
             // lblGuessNumber
@@ -71,17 +73,29 @@
             this.lblAnswer.TabIndex = 3;
             this.lblAnswer.Text = "label1";
             // 
+            // picAns
+            // 
+            this.picAns.Image = global::GuessNumberKaelanK.Properties.Resources.red_x;
+            this.picAns.Location = new System.Drawing.Point(278, 241);
+            this.picAns.Name = "picAns";
+            this.picAns.Size = new System.Drawing.Size(151, 140);
+            this.picAns.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picAns.TabIndex = 4;
+            this.picAns.TabStop = false;
+            // 
             // frmGuessNumber
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.picAns);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.btnCheck);
             this.Controls.Add(this.txtGuess);
             this.Controls.Add(this.lblGuessNumber);
             this.Name = "frmGuessNumber";
             this.Text = "Guess Number by Kaelan";
+            ((System.ComponentModel.ISupportInitialize)(this.picAns)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -93,6 +107,7 @@
         private System.Windows.Forms.TextBox txtGuess;
         private System.Windows.Forms.Button btnCheck;
         private System.Windows.Forms.Label lblAnswer;
+        private System.Windows.Forms.PictureBox picAns;
     }
 }
 
