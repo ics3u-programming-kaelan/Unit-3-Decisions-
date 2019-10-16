@@ -24,6 +24,7 @@ namespace GuessNumberKaelanK
             InitializeComponent();
             //hiding label
             lblAnswer.Hide();
+            picAns.Hide();
         }
 
         private void LblGuessNumber_Click(object sender, EventArgs e)
@@ -44,6 +45,7 @@ namespace GuessNumberKaelanK
             {
                 lblAnswer.Text = "Your Guess Is Too High";
                 lblAnswer.Show();
+                picAns.Show();
                 this.picAns.Image = Properties.Resources.red_x;
             }
 
@@ -52,6 +54,7 @@ namespace GuessNumberKaelanK
             {
                 lblAnswer.Text = "Your Guess Is Too Low";
                 lblAnswer.Show();
+                picAns.Show();
                 this.picAns.Image = Properties.Resources.red_x;
             }
 
@@ -60,9 +63,8 @@ namespace GuessNumberKaelanK
             {
                 lblAnswer.Text = "You Guessed Right!";
                 lblAnswer.Show();
-                this.picAns.Image = Properties.Resources.checkmark;
-                System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"n:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\GuessNumberKaelanK\Sounds\Correct Answer Sound Effect.mp3");
-                player.Play();
+                picAns.Show();
+                this.picAns.Image = Properties.Resources.checkmark;  
             }
             
         }
