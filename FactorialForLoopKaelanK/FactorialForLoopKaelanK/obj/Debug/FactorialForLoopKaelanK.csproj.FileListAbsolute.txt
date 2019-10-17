@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\bin\Debug\FactorialForLoopKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\bin\Debug\FactorialForLoopKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\bin\Debug\FactorialForLoopKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.frmFactForLoop.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\FactorialForLoopKaelanK\FactorialForLoopKaelanK\obj\Debug\FactorialForLoopKaelanK.pdb
