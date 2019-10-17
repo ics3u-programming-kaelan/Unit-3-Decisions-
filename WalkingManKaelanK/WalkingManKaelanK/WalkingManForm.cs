@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Kaelan K
+ * Created on: 17-10-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #21 - Walking Man
+ * This program uses a while loop to man a man walk
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
