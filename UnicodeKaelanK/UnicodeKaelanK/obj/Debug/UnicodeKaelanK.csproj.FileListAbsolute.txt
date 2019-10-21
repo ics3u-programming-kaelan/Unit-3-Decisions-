@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\bin\Debug\UnicodeKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\bin\Debug\UnicodeKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\bin\Debug\UnicodeKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.frmUnicode.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\UnicodeKaelanK\UnicodeKaelanK\obj\Debug\UnicodeKaelanK.pdb
