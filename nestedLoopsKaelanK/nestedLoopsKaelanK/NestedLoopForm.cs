@@ -1,9 +1,9 @@
 ﻿/*
- * Created by: First Last
- * Created on: Day-Month-Year
+ * Created by: Kaelan K
+ * Created on: 24-10-2019
  * Created for: ICS3U Programming
  * Daily Assignment – Day #28 - Alphabet Nested Loops
- * This program...
+ * This program loops through letters A - Z and then in a - z
 */
 using System;
 using System.Collections.Generic;
@@ -44,7 +44,7 @@ namespace nestedLoopsKaelanK
                 for (lowAlphaVal = 97; lowAlphaVal <= 122; lowAlphaVal++)
                 {
                     lowLetter = Char.ConvertFromUtf32(lowAlphaVal);
-                    this.lstAlphaNest.Items.Add(lowAlphaVal + " -> " + lowLetter);
+                    this.lstAlphaNest.Items.Add(letter + " -> " + lowLetter);
                     
                 }
                 this.lstAlphaNest.Items.Add(alphaVal + " -> " + letter);
