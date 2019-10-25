@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.frmFactorial.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\bin\Debug\doWhileFactorial.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\bin\Debug\doWhileFactorial.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\bin\Debug\doWhileFactorial.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\doWhileFactorial\doWhileFactorial\obj\Debug\doWhileFactorial.pdb
