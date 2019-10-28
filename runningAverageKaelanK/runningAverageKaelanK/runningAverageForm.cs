@@ -20,9 +20,7 @@ namespace runningAverageKaelanK
     public partial class runningAverageForm : Form
     {
 
-        // setting global variables
-        int sum = 0;
-        int numberOfNumbers = 0;
+        
 
         public runningAverageForm()
         {
@@ -31,6 +29,10 @@ namespace runningAverageKaelanK
 
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
+            // setting global variables
+            int sum = 0;
+            int numberOfNumbers = 0;
+
             // setting local vars
             int nextNumber;
             int average;
