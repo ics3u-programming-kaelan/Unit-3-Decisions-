@@ -52,6 +52,7 @@
             this.lblColour.Size = new System.Drawing.Size(138, 24);
             this.lblColour.TabIndex = 1;
             this.lblColour.Text = "Change Colour";
+            this.lblColour.Click += new System.EventHandler(this.LblColour_Click);
             // 
             // frmForEach
             // 

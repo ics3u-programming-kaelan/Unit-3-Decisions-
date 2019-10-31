@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Kaelan K
+ * Created on: 31-10-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #25 - Control Objects
+ * This program loops through objects in the form and changes their colour acordingly
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,18 +26,26 @@ namespace ForEachKaelanK
 
         private void BtnColour_Click(object sender, EventArgs e)
         {
-
+            // loop through all of the objects and make it green
+            foreach (Control aControlObject in this.Controls)
+            {
+                aControlObject.BackColor = Color.Green;
+            }
         }
 
-
-        foreach (Control aControlObject in this.Controls)
+        private void LblColour_Click(object sender, EventArgs e)
         {
-            aControlObject.BackColor = Color.Green;
-        }
+            // loop through all fo the objects in the form and change it to red
+            foreach (Control aControlObject in this.Controls)
+            {
+                aControlObject.BackColor = Color.Red;
 
-        if (aControlObject.GetType() == typeof(Label))
-        {
-            aControlObject.BackColor = Color.Purple;
+                // if object is a label then change colour to purple
+                if (aControlObject.GetType() == typeof(Label))
+                {
+                    aControlObject.BackColor = Color.Purple;
+                }
+            }
         }
     }
 }
