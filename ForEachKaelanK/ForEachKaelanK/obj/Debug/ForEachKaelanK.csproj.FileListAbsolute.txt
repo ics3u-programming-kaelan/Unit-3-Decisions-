@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\bin\Debug\ForEachKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\bin\Debug\ForEachKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\bin\Debug\ForEachKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.frmForEach.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 3 (Decisions)\ForEachKaelanK\ForEachKaelanK\obj\Debug\ForEachKaelanK.pdb
