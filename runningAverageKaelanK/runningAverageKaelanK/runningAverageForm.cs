@@ -17,6 +17,8 @@ using System.Windows.Forms;
 
 namespace runningAverageKaelanK
 {
+
+
     public partial class runningAverageForm : Form
     {
         // setting global variables
@@ -26,6 +28,9 @@ namespace runningAverageKaelanK
         public runningAverageForm()
         {
             InitializeComponent();
+
+            // Hiding warning label
+            this.lblTooHigh.Hide();
         }
 
         private void BtnCalculate_Click(object sender, EventArgs e)
@@ -52,7 +57,9 @@ namespace runningAverageKaelanK
             
             if (nextNumber > 100)
             {
-
+                this.lblTooHigh.Show();
+                this.btnCalculate.Enabled = false;
+                this.txtInput.Visible = false;
             }
 
             else if (nextNumber == -1)
@@ -60,6 +67,11 @@ namespace runningAverageKaelanK
                 this.btnCalculate.Enabled = false;
                 this.txtInput.Visible = false;
             }
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -32,6 +32,7 @@
             this.lblInput = new System.Windows.Forms.Label();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.lblAverage = new System.Windows.Forms.Label();
+            this.lblTooHigh = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtInput
@@ -69,11 +70,22 @@
             this.lblAverage.TabIndex = 3;
             this.lblAverage.Text = "???";
             // 
+            // lblTooHigh
+            // 
+            this.lblTooHigh.AutoSize = true;
+            this.lblTooHigh.Location = new System.Drawing.Point(161, 97);
+            this.lblTooHigh.Name = "lblTooHigh";
+            this.lblTooHigh.Size = new System.Drawing.Size(197, 13);
+            this.lblTooHigh.TabIndex = 4;
+            this.lblTooHigh.Text = "The Value You Inputed Was Above 100";
+            this.lblTooHigh.Click += new System.EventHandler(this.Label1_Click);
+            // 
             // runningAverageForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblTooHigh);
             this.Controls.Add(this.lblAverage);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.lblInput);
@@ -91,6 +103,7 @@
         private System.Windows.Forms.Label lblInput;
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Label lblAverage;
+        private System.Windows.Forms.Label lblTooHigh;
     }
 }
 
