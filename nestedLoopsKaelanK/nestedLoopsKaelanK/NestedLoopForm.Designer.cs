@@ -59,7 +59,8 @@
             this.Controls.Add(this.lstAlphaNest);
             this.Controls.Add(this.btnStart);
             this.Name = "frmNestedLoop";
-            this.Text = "Form1";
+            this.Text = "Nested Loops";
+            this.Load += new System.EventHandler(this.FrmNestedLoop_Load);
             this.ResumeLayout(false);
 
         }
